@@ -1,0 +1,14 @@
+date_delivered,category,item,qty,seller,price_eur,status,used_in,notes
+2026-11-05,tool,"VFANDV soldering iron set 80W, 180-500°C, LCD",1,Amazon,14.59,delivered,workbench,
+2026-11-05,consumable,"Lead-free solder 0.8mm 30g, Sn99.3/Cu0.7, rosin core",1,Amazon,6.99,delivered,workbench,
+2026-11-05,consumable,TOWOT 3m solder wire + no-clean flux paste 10cc,1,Amazon,8.60,delivered,workbench,
+2026-11-09,fastener,"M2/M2.5/M3 self-tapping screw set, 845 pcs",1,Amazon,8.99,delivered,sesame,
+2026-11-09,fastener,"M2.5 hex head screws, nuts, washers set, 840 pcs",1,Amazon,8.88,delivered,sesame,
+2026-11-09,component,"2.54mm 10-pin male/female headers, 30 pcs",1,Amazon,5.09,delivered,sesame,
+2026-11-09,tool,BRILLIANT TOOLS BT122900 digital multimeter,1,Amazon,8.99,delivered,workbench,
+2026-11-09,component,"22AWG 2-core red/black wire, 10m",1,Amazon,6.50,delivered,sesame,
+2026-11-10,component,"DollaTek double-sided perfboard 5x7cm, 5 pcs",1,Amazon,5.99,delivered,sesame,
+2026-11-10,component,"0.96"" I2C OLED 128x64 (SSD1306), white",2,Amazon,7.99,delivered,sesame,price is for the pack
+2026-11-11,component,"ESP32-S2 Mini V1.0.0 (4MB flash, 2MB PSRAM)",3,Amazon,12.58,delivered,sesame,price is for the pack
+,component,MG90S servos,TODO,AliExpress,TODO,in transit,sesame,Sesame needs 8 (2 per leg)
+,component,Sesame 3D-printed parts,—,on-demand print service,TODO,to order,sesame,
